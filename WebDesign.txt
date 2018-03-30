@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<title>Places I Would Like to Visit</title>
+</head>
+
+<body bgcolor="#E6E6FA">
+<h1 style="font-size:200%;text-align:center;"> Paris, France</h1>
+<p style="font-size:100%;"> I have never gotten the chance to travel to Europe, but I believe Paris would be the first place I would like to visit given this oppurtunity. Paris is the capital of France and has many different attractions. With France being so close to many other European countries, it makes it easily accesible to do some looking around in other countries and exploring the culture changes. </p>
+
+<h2 style="font-size:200%;text-align:center;">Swiss Alps</h2>
+<p style="font-size:100%;"> The Swiss Alps are a region of Switzerland that is filled with the Swiss Plateau and the Swiss portion of the Jura Mountains, spanning not only over Switzerland but also over the Western and Eastern areas of Europe. These mountains take up about 65% of Switzerland's total land area. Many resorts lie in the foothills of these mountains, creating the perfect snow covered scenery. </p>
+<a href="https://www.macsadventure.com/us/walking-tours/europe-walking-tours/switzerland">Free Hiking Tours Through the Swiss Alps</a> 
+
+
+<h3 style="font-size:200%;text-align:center;">Tokyo, Japan</h3>
+<p style="font-size:100%;">Growing up I always heard things about Japan because my mom had lived there in high school. Japan is a country with a lot of history, but yet is modernizing at a rapid rate. Not to mention all the authentic Japanese food. As Japan modernizes, the country still holds a lot of the rich history. I think visiting these historical monuments would be a fascinating thing. There is not really a lot of monuments like that in the United States and I think it would be an amazing experience to explore some of these pieces of history. </p>
+<img src="Tokyo.jpg"alt="historical Tokyo" height="720" width="410"></img>
+
+<table style="width:100%">
+<tr>
+<th>Paris, France</th>
+<th>Swiss Alps</th>
+<th>Tokyo, Japan</th>
+</tr>
+<tr>
+<td>First Place of Choice To Go</td>
+<td>Second Place of Choice To Go</td>
+<td>Third Place of Choice To Go</td>
+</tr>
+<tr>
+<td>Effiel Tower</td>
+<td>Hiking in Swiss Alps</td>
+<td>Roaming Through Tokyo</td>
+</tr>
+</table>
+
+</body>
+</html>
